@@ -16,6 +16,7 @@
 		81C2DAAA25D2B9A100B4A35B /* GameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81C2DAA925D2B9A100B4A35B /* GameViewController.swift */; };
 		81C2DAAD25D2B9A100B4A35B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81C2DAAB25D2B9A100B4A35B /* Main.storyboard */; };
 		81C2DAAF25D2B9A100B4A35B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 81C2DAAE25D2B9A100B4A35B /* Assets.xcassets */; };
+		81CB9B9526ADAC9E0091CAA5 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 81CB9B9426ADAC9E0091CAA5 /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		81C2DAAC25D2B9A100B4A35B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		81C2DAAE25D2B9A100B4A35B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		81C2DAB025D2B9A100B4A35B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		81CB9B9426ADAC9E0091CAA5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		81C2DA9525D2B9A100B4A35B = {
 			isa = PBXGroup;
 			children = (
+				81CB9B9426ADAC9E0091CAA5 /* README.md */,
 				81C2DAA025D2B9A100B4A35B /* Bounce */,
 				81C2DA9F25D2B9A100B4A35B /* Products */,
 			);
@@ -144,6 +147,7 @@
 				810BA6A025D3DACC0081A7D1 /* music.mp3 in Resources */,
 				81C2DAAD25D2B9A100B4A35B /* Main.storyboard in Resources */,
 				81C2DAA425D2B9A100B4A35B /* GameScene.sks in Resources */,
+				81CB9B9526ADAC9E0091CAA5 /* README.md in Resources */,
 				810BA6A725D3E4B20081A7D1 /* coin.wav in Resources */,
 				810BA6A425D3DD5E0081A7D1 /* explosion.sks in Resources */,
 				81C2DAAF25D2B9A100B4A35B /* Assets.xcassets in Resources */,
